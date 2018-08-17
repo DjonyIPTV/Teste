@@ -1,193 +1,27 @@
 #EXTM3U
-EXTINF:-1,[PT] TV CINE 1 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1920.ts
-EXTINF:-1,[PT] TV CINE 2
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1921.ts
-EXTINF:-1,[PT] TV CINE 3
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1922.ts
-EXTINF:-1,[PT] TV CINE 4
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1923.ts
-EXTINF:-1,[PT] FOX NEWS HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1951.ts
-EXTINF:-1,[PT] FOX LIFE
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1950.ts
-EXTINF:-1,[PT] FOX CRIME HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1926.ts
-EXTINF:-1,[PT] FOX MOVIES
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1949.ts
-EXTINF:-1,[PT] AXN HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1959.ts
-EXTINF:-1,[PT] SIC HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1934.ts
-EXTINF:-1,[PT] SIC RADICAL
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1929.ts
-EXTINF:-1,[PT] SIC MULHER
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1931.ts
-EXTINF:-1,[PT] SIC NOTICIAS
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1930.ts
-EXTINF:-1,[PT] HOLLYWOOD HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1945.ts
-EXTINF:-1,[PT] RTP 1 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1938.ts
-EXTINF:-1,[PT] RTP 2 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1939.ts
-EXTINF:-1,[PT] RTP 3 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1940.ts
-EXTINF:-1,[PT] RTP MEMORIA
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1935.ts
-EXTINF:-1,[PT] TV SERIES HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1924.ts
-EXTINF:-1,[PT] 24 KITCHEN HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5363.ts
-EXTINF:-1,[PT] A&amp;E
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5336.ts
-EXTINF:-1,[PT] AFRO MUSIC CHANNEL
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5377.ts
-EXTINF:-1,[PT] AMC HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5334.ts
-EXTINF:-1,[PT] AXN BLACK HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5328.ts
-EXTINF:-1,[PT] AXN WHITE
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5330.ts
-EXTINF:-1,[PT] AXN WHITE HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5329.ts
-EXTINF:-1,[PT] BABY TV
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5365.ts
-EXTINF:-1,[PT] BENFICA TV
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5344.ts
-EXTINF:-1,[PT] BTV HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5343.ts
-EXTINF:-1,[PT] CACAVISION
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5362.ts
-EXTINF:-1,[PT] CANAL HISTORIA
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5361.ts
-EXTINF:-1,[PT] CINE MUNDO
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5327.ts
-EXTINF:-1,[PT] CM TV
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5346.ts
-EXTINF:-1,[PT] CM TV HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5345.ts
-EXTINF:-1,[PT] CRIME INVESTIGATION
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5326.ts
-EXTINF:-1,[PT] DISCOVERY SHOWCASE HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5360.ts
-EXTINF:-1,[PT] EUROSPORT 1 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5348.ts
-EXTINF:-1,[PT] EUROSPORT 2 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5349.ts
-EXTINF:-1,[PT] EUROSPORT NEWS
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5347.ts
-EXTINF:-1,[PT] FIGHT BOX HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5351.ts
-EXTINF:-1,[PT] FOOD NETWORK
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5364.ts
-EXTINF:-1,[PT] FOX COMEDY HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5332.ts
-EXTINF:-1,[PT] FOX LIFE HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5331.ts
-EXTINF:-1,[PT] FUEL TV
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5354.ts
-EXTINF:-1,[PT] JIM JAM
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5369.ts
-EXTINF:-1,[PT] KOMBAT SPORT
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5352.ts
-EXTINF:-1,[PT] MCM TOP
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5373.ts
-EXTINF:-1,[PT] MCS EXTREME
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5355.ts
-EXTINF:-1,[PT] MCS LIFESTYLE
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5356.ts
-EXTINF:-1,[PT] MTV BASE
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5372.ts
-EXTINF:-1,[PT] MTV DANCE
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5374.ts
-EXTINF:-1,[PT] MTV PORTUGAL
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5371.ts
-EXTINF:-1,[PT] NAT GEO WILD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5359.ts
-EXTINF:-1,[PT] NATIONAL GEOGRAPHIC
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5358.ts
-EXTINF:-1,[PT] NATIONAL GEOGRAPHIC HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5357.ts
-EXTINF:-1,[PT] NFL NOW
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5350.ts
-EXTINF:-1,[PT] NICKELODEON
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5368.ts
-EXTINF:-1,[PT] NRJ HITS TV
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5376.ts
-EXTINF:-1,[PT] PANDA BIGGS
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5370.ts
-EXTINF:-1,[PT] Q CANAL
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5320.ts
-EXTINF:-1,[PT] REAL MADRID TV
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5353.ts
-EXTINF:-1,[PT] SIC CARAS HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5319.ts
-EXTINF:-1,[PT] SIC KIDS
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5367.ts
-EXTINF:-1,[PT] SPORT TV +
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5337.ts
-EXTINF:-1,[PT] SPORT TV 1 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5338.ts
-EXTINF:-1,[PT] SPORT TV 2 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5339.ts
-EXTINF:-1,[PT] SPORT TV 3 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5340.ts
-EXTINF:-1,[PT] SPORT TV 4 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5341.ts
-EXTINF:-1,[PT] SPORT TV 5 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5342.ts
-EXTINF:-1,[PT] SYFY HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5333.ts
-EXTINF:-1,[PT] TLC
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5335.ts
-EXTINF:-1,[PT] TV CINE 1
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5322.ts
-EXTINF:-1,[PT] TV CINE 2 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5323.ts
-EXTINF:-1,[PT] TV CINE 3 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5324.ts
-EXTINF:-1,[PT] TV CINE 4 HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5325.ts
-EXTINF:-1,[PT] TVI FICCAO
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5317.ts
-EXTINF:-1,[PT] TVI REALITY
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5318.ts
-EXTINF:-1,[PT] VH1
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/5375.ts
-EXTINF:-1,[PT] GLOBO PREMIUM
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1948.ts
-EXTINF:-1,[PT] CAZAY PESCA
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1958.ts
-EXTINF:-1,[PT] CBS REALITY
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1918.ts
-EXTINF:-1,[PT] E!ENTERTAINMENT
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1947.ts
-EXTINF:-1,[PT] A BOLA TV
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1961.ts
-EXTINF:-1,[PT] DISCOVERY CHANNEL
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1954.ts
-EXTINF:-1,[PT] DISNEY CHANNEL
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1942.ts
-EXTINF:-1,[PT] CANAL PANDA HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1956.ts
-EXTINF:-1,[PT] ODISSEIA
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1944.ts
-EXTINF:-1,[PT] TVI HD
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1919.ts
-EXTINF:-1,[PT] TVI 24
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1917.ts
-EXTINF:-1,[PT] PORTO CANAL
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1943.ts
-EXTINF:-1,[PT] SPORT TV 1
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1912.ts
-EXTINF:-1,[PT] SPORT TV 2
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1913.ts
-EXTINF:-1,[PT] SPORT TV 3
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1915.ts
-EXTINF:-1,[PT] SPORT TV 4
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1916.ts
-EXTINF:-1,[PT] SPORT TV 5
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1914.ts
-EXTINF:-1,[PT] SPORTING TV
-http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1928.ts
+EXTINF:-1,[AR] BEINSPORT 1 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1861.ts
+EXTINF:-1,[AR] BEINSPORT 2 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1860.ts
+EXTINF:-1,[AR] BEINSPORT 3 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1859.ts
+EXTINF:-1,[AR] BEINSPORT 4 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1858.ts
+EXTINF:-1,[AR] BEINSPORT 5 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1857.ts
+EXTINF:-1,[AR] BEINSPORT 6 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1856.ts
+EXTINF:-1,[AR] BEINSPORT 7 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1855.ts
+EXTINF:-1,[AR] BEIN SPORTS 8 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1854.ts
+EXTINF:-1,[AR] BEIN SPORTS 9 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1853.ts
+EXTINF:-1,[AR] BEINSPORT 10 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/1852.ts
+EXTINF:-1,[AR] BEIN SPORTS 11 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/831.ts
+EXTINF:-1,[AR] BEIN SPORTS 12 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/832.ts
+EXTINF:-1,[AR] BEIN SPORTS 13 HD
+http://145.239.1.103:8000/live/apowohn/O1OwFTpSIu/833.ts
